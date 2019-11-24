@@ -5,9 +5,10 @@ module.exports = {
       'md': '768px',
       'lg': '1024',
       'xl': '1280px',
-    },
-    extend: {}
+    }
+  
   },
+  extend: {},
   variants: {},
   plugins: []
 }
